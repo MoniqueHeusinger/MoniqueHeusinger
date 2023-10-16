@@ -1,5 +1,5 @@
 # 💫 About Me:
-👋 Hi, I’m @MoniqueHeusinger
+👋 Hi, I’m @MoniqueHeusinger<br>
 🔭 I’m currently a student for Fullstack Development at SuperCode GmbH<br>🌱 I’m currently learning: JavaScript
 
 
