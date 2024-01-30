@@ -6,7 +6,7 @@
 <hr>
 
 🔭 I’m currently a student for Fullstack Development at SuperCode GmbH<br>
-🌱 I’m currently learning **Node.js**<br>
+🌱 I’m currently learning **Node.js** and **MongoDB**<br>
 👨‍💻 All of my projects are available at [github.com/MoniqueHeusinger](github.com/MoniqueHeusinger)<br><br>
 
 <h3 align="left">Connect with me:</h3>
