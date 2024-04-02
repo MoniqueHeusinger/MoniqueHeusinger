@@ -6,7 +6,7 @@
 
 ###
 
-<p align="left">I have always had a passion for web development, design and working with photo editing programs. In 2023, I was longing for a career change. So I went all-in and started an intensive coding bootcamp (27 weeks) for fullstack web development, which I have now successfully completed. 💪</p>
+<p align="left">I have always had a passion for web development, design and working with photo editing software. In 2023, I was longing for a career change. So I went all-in and started an intensive coding bootcamp (27 weeks) for fullstack web development, which I have now successfully completed. 💪</p>
 
 ###
 
